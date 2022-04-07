@@ -1,0 +1,40 @@
+Two types of components in react :-
+Function Based and Class Based.
+
+Those components which are rendered by a function are called function based components.
+
+State :-
+
+It is a piece of data that you might need to save that might change in future. or for rendering or performing some function in future.
+
+Changing a piece of state directly, doesnot change the rendering. for this we have to use setstate;
+
+Object :-
+
+Object in JS is a Key:Value Pair, ( very similar to dictionary )
+
+Prop :-
+
+Prop is a sort of data, that we can transfer, that we can send or that we can communicate from a parent component to child componenet.
+
+For Child to parent Data transfer :- we use callback methods;
+
+For deploying the project on github :--
+
+1. npm install gh-pages --save-dev
+2. add this property on package.json
+
+   inside root :-
+   homepage : 'http://username.github.io/repo-name'
+
+   inside script :-
+
+   predeploy "npm run build"
+   deploy "gh-pages -d build"
+
+3. git init
+4. git remote add origin https://github.com/Raunak2606/nameit.git
+5. git add .
+6. git commit -m "Add this Nameit project"
+7. git push -u origin master
+8. npm run deploy
