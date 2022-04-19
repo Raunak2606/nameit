@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Raunak2606/nameit/static/css/main.2a1f5d55.css",
-    "main.js": "/Raunak2606/nameit/static/js/main.a0721704.js",
-    "static/js/787.a9792d9a.chunk.js": "/Raunak2606/nameit/static/js/787.a9792d9a.chunk.js",
-    "index.html": "/Raunak2606/nameit/index.html",
-    "main.2a1f5d55.css.map": "/Raunak2606/nameit/static/css/main.2a1f5d55.css.map",
-    "main.a0721704.js.map": "/Raunak2606/nameit/static/js/main.a0721704.js.map",
-    "787.a9792d9a.chunk.js.map": "/Raunak2606/nameit/static/js/787.a9792d9a.chunk.js.map"
+    "main.css": "/nameit/static/css/main.2a1f5d55.css",
+    "main.js": "/nameit/static/js/main.03ec8cb3.js",
+    "static/js/787.a9792d9a.chunk.js": "/nameit/static/js/787.a9792d9a.chunk.js",
+    "index.html": "/nameit/index.html",
+    "main.2a1f5d55.css.map": "/nameit/static/css/main.2a1f5d55.css.map",
+    "main.03ec8cb3.js.map": "/nameit/static/js/main.03ec8cb3.js.map",
+    "787.a9792d9a.chunk.js.map": "/nameit/static/js/787.a9792d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a1f5d55.css",
-    "static/js/main.a0721704.js"
+    "static/js/main.03ec8cb3.js"
   ]
 }
